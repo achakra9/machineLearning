@@ -1,1 +1,1 @@
-### Tryin to learn ML
+### Trying to learn ML
